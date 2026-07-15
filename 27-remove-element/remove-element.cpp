@@ -14,21 +14,6 @@ public:
         for(int i=0;i<slow;i++){
             count++;
         }
-        return count;
-        
-
-
-
-
-
-
-        // for(int i=0;i<nums.size();i++){
-        //     if(nums[i]==val){
-        //         nums.erase(nums.begin()+i);
-        //         i--;
-        //     }
-        // }
-        // return nums.size();
-        
+        return count;   
     }
 };
